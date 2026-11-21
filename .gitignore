@@ -1,0 +1,29 @@
+# ---- 运行数据：含真实客户邮箱与发送流水，绝对不要提交 ----
+data/
+logs/
+runtime/
+output/
+sent_history*.json
+*.jsonl
+*.db
+*.db-journal
+
+# ---- 本机状态（界面位置、上次选的表、模板偏好等）----
+settings.json
+ui.json
+*.bak
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+*.egg-info/
+
+# ---- 编辑器 / 系统 ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+app.ico

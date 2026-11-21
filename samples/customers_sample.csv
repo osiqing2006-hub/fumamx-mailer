@@ -1,0 +1,11 @@
+﻿国家,邮箱,客户名,公司,备注
+阿联酋,ahmed@example.com,Ahmed,Example Trading LLC,展会上交换过名片
+德国,info@example-gmbh.de,Thomas,Example GmbH,官网询盘
+美国,buyer@example-inc.com,Mike,Example Inc.,老客户介绍
+澳大利亚,orders@example-au.com.au,Emma,Example AU Pty,2024 年买过小样
+巴西,compras@example-br.com.br,Carlos,Example Brasil,葡语客户
+印度,raj@example-in.com,Raj,Example India Pvt,问过价格
+英国,hello@example-uk.co.uk,James,Example UK Ltd,退回过一次
+越南,linh@example-vn.com,Linh,Example VN Co.,停留询价阶段
+,没填邮箱的行也会出现在表里,这个会在预览时被跳过,Example Skip,
+中国香港,kwong@example-hk.com,Kwong,Example HK Ltd,城市写成香港时自动归到中国香港
